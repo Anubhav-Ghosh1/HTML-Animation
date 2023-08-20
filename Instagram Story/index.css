@@ -1,0 +1,16 @@
+body{
+    padding: 15%;
+}
+.circle img{
+    height: 100%;
+    width: 100%;
+    object-fit: contain;
+}
+.circle
+{
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    background: linear-gradient(#405DE6,#5851DB,#833AB4,#C13584,#E1306C,#E1306C,#FD1D1D,#F56040,#F77737);
+    padding: 5px;
+}
